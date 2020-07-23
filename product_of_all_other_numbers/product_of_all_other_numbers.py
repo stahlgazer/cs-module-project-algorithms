@@ -22,3 +22,16 @@ if __name__ == '__main__':
     # arr = [2, 7, 7, 8]
 
     print(f"Output of product_of_all_other_numbers: {product_of_all_other_numbers(arr)}")
+
+# class example for counting stories
+# lst = [
+#     '                                ',
+#     '                                ',
+#     '                                ',
+#     '################################',
+#     '################################',
+#     '################################',
+#     ]
+
+# lst = [ item for item in lst if '#' in item ]
+# print(lst)
